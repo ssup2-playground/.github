@@ -15,7 +15,7 @@ TODO
 
 ### Service Peccy
 
-![service peccy web](../image/service_peccy_web.png)
+![service peccy web](/image/service_peccy_web.png)
 
 Servic peccy is a simple web service to demonstrate eks-cicd-dr project. Service peccy consists of 3-tier architecture. Service peccy uses MySQL (Aurora) to store peccy's information and NFS (EFS) to store peccy's picture.
 
