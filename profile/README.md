@@ -1,6 +1,5 @@
 # AWS Playground
 
-AWS Playground organization is a personal repository group that stores test records related to aws.
+AWS Playground organization is a personal repository group that stores test and PoC related to AWS.
 
-* [eks-cicd-dr Project](https://github.com/aws-playground/eks-cicd-dr) : eks-cicd-dr is prototyping project for CI/CD and DR (Disaster Recovery) based on EKS. eks-cicd-dr project consists of the following git repositories.
-
+* [eks-cicd-dr](https://github.com/aws-playground/eks-cicd-dr) : eks-cicd-dr is prototyping project for CI/CD and DR (Disaster Recovery) based on AWS EKS.
