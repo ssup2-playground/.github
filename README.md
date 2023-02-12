@@ -1,3 +1,3 @@
 # profile
 
-aws-playground profile
+ssup2-playground profile
