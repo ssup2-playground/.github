@@ -4,7 +4,7 @@ ssup2-playground organization is a personal organization that stores tests and P
 
 |Name|Description|
 |---|---|
-|[bedrock-multi-region-private-network](https://github.com/ssup2-playground/bedrock-multi-region-private-network_project)|Prototyping project that uses multi-region bedrock using a private network rather than a public network.|
+|[bedrock-multi-region-pnetwork](https://github.com/ssup2-playground/bedrock-multi-region-private-network_project)|Prototyping project that uses multi-region bedrock using a private.|
 |[eks-kubecost](https://github.com/ssup2-playground/eks-kubecost_project)|Prototyping project for testing various architecture with kubecost and AWS EKS.|
 
 * [bedrock-multi-region-private-network](https://github.com/ssup2-playground/bedrock-multi-region-private-network_project) : Prototyping project that uses multi-region bedrock using a private network rather than a public network.
