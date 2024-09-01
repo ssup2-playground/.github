@@ -4,6 +4,7 @@ ssup2-playground organization is a personal organization that stores tests and P
 
 |Name|Description|
 |---|---|
+|[aurora-eks-amp-monitoring](https://github.com/ssup2-playground/aurora-eks-amp-monitoring_project)|Prototyping project how to monitor Aurora using EKS and AMP.|
 |[bedrock-multi-region-prvate-network](https://github.com/ssup2-playground/bedrock-multi-region-private-network_project)|Prototyping project that uses multi-region bedrock using a private network.|
 |[eks-kubecost](https://github.com/ssup2-playground/eks-kubecost_project)|Prototyping project for testing various architecture with kubecost and EKS.|
 |[eks-sgpp-network-issue](https://github.com/ssup2-playground/eks-sgpp-network-issue_project)|Project to reproduce and improve network issues between pods when using SGPP (Security Group per Pod) function on EKS.|
